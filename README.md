@@ -1,4 +1,4 @@
-yii2-ply
+yii2-magnific-popup
 ========
 
-Ply modal window fro Yii2
+Magnific popup modal for Yii2
